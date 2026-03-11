@@ -43,24 +43,22 @@ The project features a responsive, **custom Matrix-themed user interface** built
 2. Application Setup
 Clone this repository to your local machine:
 
-Bash
-
+```
 git clone [https://github.com/efeberktnci/CyberScanner.git](https://github.com/efeberktnci/CyberScanner.git)
 Navigate to the project directory:
-
-Bash
+```
+```
 
 cd CyberScanner
+```
 Install the required Python dependencies:
-
-Bash
-
+```
 python -m pip install flask mysql-connector-python
+```
 Run the Flask application:
-
-Bash
-
+```
 python app.py
+```
 Open your web browser and navigate to http://127.0.0.1:5000 to start scanning!
 
 ⚠️ Disclaimer
