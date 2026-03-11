@@ -16,7 +16,6 @@ The project features a responsive, **custom Matrix-themed user interface** built
 * **🚀 High-Speed Scanning:** Utilizes Python's `threading` module to concurrently scan ports (1-1024), completing network requests in seconds.
 * **🌐 Dynamic DNS Resolution:** Automatically converts target domain names (e.g., `scanme.nmap.org`) to their respective IPv4 addresses.
 * **💾 Persistent Logging:** Seamlessly integrates with a MySQL database to record the target IP, identified open ports, and exact timestamps of every scan.
-* **🎨 Hacker-Themed UI:** A sleek, immersive dark-mode web interface featuring an animated Matrix digital rain background using JavaScript `<canvas>`.
 
 ## 🛠️ Technology Stack
 * **Frontend:** HTML5, CSS3, JavaScript (Canvas API), Bootstrap 5.3
